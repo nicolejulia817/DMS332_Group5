@@ -1,5 +1,23 @@
 # DMS332_Group5
 
+# Chicken Run
+
+Pitch: Take back your eggs and avoid getting eaten!
+
+Audience and genre: 3-d platformer for all ages and skill sets.
+
+Synopsis:
+  
+  Theme: Low-poly, farm.
+  
+  Goals: Run and jump to collect your eggs and make it to the hen house to win.
+  
+  Mechanics: Use your speed and mobility to run and jump to different locations on the map.
+  
+  Uniqueness: You’re a chicken.
+
+Flowboard: (This should show the progression of the game, and the choices available to the players at each point.) Spawn -> take a path -> collect items -> go to hen house
+
 Assets:
 
 Cow:
