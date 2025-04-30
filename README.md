@@ -19,6 +19,8 @@ Synopsis:
 Flowboard: (This should show the progression of the game, and the choices available to the players at each point.) Spawn -> take a path -> collect items -> go to hen house
 
 Assets:
+Foliage:
+https://www.fab.com/listings/a607441d-b811-440b-a20c-59e74804c4ce?utm_campaign=pr*Fab_sp*Fab.com_an*Moonrock_ct*Google_cn*Fab.com_ta*Brand_pl*LinkClicks_co*USBuyer&utm_content=21950435199&utm_medium=PaidSearch&utm_source=GoogleSearch&utm_term=unreal+engine+assets
 
 Cow:
 https://www.fab.com/listings/fbd8c8b0-fc59-460e-adb8-c7ab8f19a6f9
